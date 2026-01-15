@@ -7,3 +7,9 @@ img {
     height:25vh;
     width:25vh;
 }
+
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    color: red;
+}
